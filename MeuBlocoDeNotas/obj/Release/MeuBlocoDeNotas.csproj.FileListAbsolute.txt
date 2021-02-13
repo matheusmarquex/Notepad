@@ -1,0 +1,9 @@
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Release\MeuBlocoDeNotas.exe.config
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Release\MeuBlocoDeNotas.exe
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Release\MeuBlocoDeNotas.pdb
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Release\MeuBlocoDeNotas.inicio.resources
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Release\MeuBlocoDeNotas.Properties.Resources.resources
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Release\MeuBlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Release\MeuBlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Release\MeuBlocoDeNotas.exe
+C:\Users\Matheus\Desktop\MeuBlocoDeNotas\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Release\MeuBlocoDeNotas.pdb
